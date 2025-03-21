@@ -4,7 +4,6 @@ import openai
 
 # OpenAI API Key
 openai.api_key = ''
-# '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'
 
 # Title
 st.title('Pelindo Enterprise Data Search')
