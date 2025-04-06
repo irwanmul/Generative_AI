@@ -7,6 +7,9 @@ You can check by watch video recordings [here](https://github.com/irwanmul/Gener
 ## How to Use
 You can Click and Run Final Python File [here](https://github.com/irwanmul/Generative_AI/blob/main/%5BFINAL%5D%20extract_pdf_with_AI_specific_csv_output.py)
 
+#
+#
+
 ## Problems 
 - Manual data extraction from thousands of non-standard documents (invoice + receipts combined) was slow and error prone
 
@@ -35,7 +38,7 @@ You can Click and Run Final Python File [here](https://github.com/irwanmul/Gener
 - Reduced manual processing time by 60%
   
 ## Impact
-- Deployed to 3 - 5 Departments with 400 - 500 users
+Deployed to 3 - 5 Departments with 400 - 500 users
 
 
 
