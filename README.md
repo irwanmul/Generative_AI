@@ -18,14 +18,20 @@
 - Document Assesments:	
 - - Find out every document specification from every departments
 - - Use general Logic to Simplify
-	
-## Development	
- - Integrate Internal Apps with OpenAI API
-	- Create LLM logic for AI
-	- Train AI for every use case docs
-## Monitoring	
-	Get sampling from population docs
-	Check if the AI extract is relevant or not
+- Development	
+- - Integrate Internal Apps with OpenAI API
+- - Create LLM logic for AI
+- - Train AI for every use case docs
+- Monitoring	
+- - Get sampling from population docs
+- - Check if the AI extract is relevant or not
+ 
+## Key Achievement
+- Achieved 80% extraction accuracy at scale
+- Reduced manual processing time by 60%
+## Impact
+- Deployed to 3 - 5 Departments with 400 - 500 users
+
 
 
  
